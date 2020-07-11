@@ -1,0 +1,12 @@
+main: me.nemo_64.npolls.NPolls
+name: NPolls
+version: 0.0.1
+description: Create fully customizable polls easily
+api-version: 1.13
+author: Nemo_64
+website: https://github.com/MrNemo64/NPolls/
+prefix: NPolls
+
+commands:
+  npoll:
+    description: Main command of the plugin
