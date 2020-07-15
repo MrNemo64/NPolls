@@ -8,5 +8,6 @@ website: https://github.com/MrNemo64/NPolls/
 prefix: NPolls
 
 commands:
-  npoll:
+  npolls:
     description: Main command of the plugin
+    aliases: [np]

@@ -1,0 +1,22 @@
+not-enough-permissions: "&cYou can't do that"
+
+polls:
+  editting:
+    general-page:
+      title: "&eGeneral configurations"
+    options-page:
+      title: "&ePoll options"
+
+commands:
+   npolls:
+      arguments:
+         help:
+           header: "&6<---[&aNPolls&6]--->"
+           commands: 
+           - '&eCommands:'
+           - ' &bnpolls (np):'
+           - '  &7help: &8Displays this message'
+           apis:
+           - '&eapis:'
+           - ' &b PagedInventories &7from tchristofferson &6(https://github.com/tchristofferson/PagedInventories)'
+           - ' &b XMaterial &7from CryptoMorin &6(https://github.com/CryptoMorin/XSeries)'
